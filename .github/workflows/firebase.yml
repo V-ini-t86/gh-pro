@@ -49,6 +49,9 @@ jobs:
           with:
             name: build
             path: build
+        - run: |
+            yarn install
+            yarn build
         - name: Deploy to Firebase
           uses: w9jds/firebase-action@master
           with:
