@@ -1,0 +1,20 @@
+nav > button {
+  background: none;
+  border: none;
+  color: blueviolet;
+  text-decoration: none;
+}
+header {
+  box-shadow: -2px 1px 8px 1px;
+}
+.site-header {
+  background: #458085;
+  color: #fff;
+}
+.h-link {
+  color: #fff;
+  text-decoration: none;
+}
+.nav-class {
+  background: #284244;
+}

@@ -1,0 +1,13 @@
+.circle {
+  border-radius: 70%;
+  width: 130px;
+  height: 130px;
+}
+.review {
+  font-family: "Gemunu Libre", sans-serif;
+  font-size: larger;
+  font-weight: 500;
+}
+.cardShadow {
+  box-shadow: 3px 2px 7px 0px;
+}

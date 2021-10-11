@@ -1,0 +1,10 @@
+.contact-section {
+  background: #0e3d40;
+  color: white;
+}
+.privacy {
+  text-align: center;
+}
+.privacy:hover {
+  color: white;
+}

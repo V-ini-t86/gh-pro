@@ -1,0 +1,11 @@
+.setting-page {
+  background: #f2f2f2;
+}
+.user-info {
+  background: white;
+}
+.user-info > img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
